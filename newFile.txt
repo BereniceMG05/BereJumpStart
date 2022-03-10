@@ -1,6 +1,8 @@
+
 <<<<<<< HEAD
 Das hier ist Dominiks file.
 Anmerkung1. Test Nr1.
 =======
 hallo
 >>>>>>> 7669a6a54d40f3946391312af6bd641bfd272858
+TestAmena
